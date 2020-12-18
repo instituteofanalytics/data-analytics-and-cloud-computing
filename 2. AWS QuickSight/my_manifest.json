@@ -1,0 +1,13 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://ioa-quicksight.s3.amazonaws.com/Road_Weather_Information_Stations.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ","
+    }
+}
